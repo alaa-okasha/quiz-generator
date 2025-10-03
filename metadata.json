@@ -1,0 +1,5 @@
+
+{
+  "name": "Adaptive AI Quiz Generator",
+  "description": "An intelligent quiz generator that creates adaptive quizzes on any topic, tracks user performance, and provides personalized feedback for improvement using the Gemini API."
+}
