@@ -2,7 +2,9 @@
 
 An intelligent quiz generator that creates adaptive, multiple-choice quizzes on any topic. This application uses the Google Gemini API to dynamically generate questions and provides personalized feedback to help users identify and improve their weak points.
 
-![Adaptive AI Quiz Generator Screenshot](https://storage.googleapis.com/aistudio-project-co-lab-assets/readme_images/adaptive-ai-quiz-generator.png)
+## 🚀 Live Demo
+
+[**View Live Demo**](https://quiz-generator-beryl.vercel.app/)
 
 ## ✨ Features
 
